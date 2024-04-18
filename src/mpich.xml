@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="mpich2" name="mpich2 License" listVersionAdded="1.20">
+   <license isOsiApproved="false" licenseId="mpich" name="mpich License" listVersionAdded="1.20">
       <crossRefs>
+         <crossRef>https://github.com/pmodels/mpich/blob/main/COPYRIGHT</crossRef>
          <crossRef>https://fedoraproject.org/wiki/Licensing/MIT</crossRef>
       </crossRefs>
     <text>
@@ -13,7 +14,7 @@
 	      the prologue of the code and in all source listings of the code.</p>
       <copyrightText>
 	      <p>Copyright Notice</p>
-	      <p>1998--2020, Argonne National Laboratory</p>
+	      <p>1998--2024, Argonne National Laboratory</p>
       </copyrightText>
       <p>Permission is hereby granted to use, reproduce, prepare derivative works, and to redistribute to others.
          This software was authored by:</p>
